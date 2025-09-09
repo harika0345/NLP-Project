@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+venv/
+env/
+nlp-env/
+.env
+
+# Data
+*.csv
+*.json
+*.pkl
+data/
+
+# OS
+.DS_Store
+Thumbs.db
